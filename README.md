@@ -12,3 +12,10 @@
 <li>React - coming next</li>
 <li>Node.js & databases - on the roadmap</li>
 </ul>
+
+<h2>A bit about me</h2>
+<ul>
+  <li>Bases in Spain</li>
+  <li>Obsessed with work and results</li>
+  <li><u>I will outwork anyone</u></li>
+</ul>
