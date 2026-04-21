@@ -19,3 +19,5 @@
   <li>Obsessed with work and results</li>
   <li>I will <b>outwork</b> anyone</li>
 </ul>
+
+<p>This profile is a work in progress. So am I.</p>
