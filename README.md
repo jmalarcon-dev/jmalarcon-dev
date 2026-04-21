@@ -6,11 +6,11 @@
 
 <h2>Currently learning</h2>
 <ul>
-<li>HTML & CSS</li>
-<li>JavaScript</li>
-<li>Python</li>
-<li>React - coming next</li>
-<li>Node.js & databases - on the roadmap</li>
+  <li>HTML & CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>React - coming next</li>
+  <li>Node.js & databases - on the roadmap</li>
 </ul>
 
 <h2>A bit about me</h2>
