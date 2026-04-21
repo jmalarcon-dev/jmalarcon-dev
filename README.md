@@ -17,5 +17,5 @@
 <ul>
   <li>Bases in Spain</li>
   <li>Obsessed with work and results</li>
-  <li>I will outwork anyone</li>
+  <li>I will <b>outwork</b> anyone</li>
 </ul>
